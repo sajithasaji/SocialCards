@@ -1,1 +1,29 @@
 
+.fa{
+    color:blue
+}
+a{
+text-decoration: none;
+border-bottom: 1px solid rgba(0, 0, 255, 0.89);
+}
+body{
+    background-color: #eee;
+}
+.box-part{
+    background-color: white;
+    padding:60px 0px;
+    margin:30px 0px;
+    border-radius: 0px;
+
+}
+.text{
+    
+    
+    margin: 20px 0px;
+}
+span{
+    font-size:15px;
+}
+.box{
+    padding:60px 0px;
+}
